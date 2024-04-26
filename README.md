@@ -4,7 +4,7 @@ Utilizei os conhecimentos adquiridos nas disciplinas Engenharia de Requisitos e 
 
 ## Apresentação do projeto:
 
-Mostrar diferentes opções de restaurantes, pratos e eventos gastronômicos na cidade a partir do que o usuário procura comer e sua localização na cidade.
+Realizar a Gestão de Tarefas, Recursos e Contas da Casa, para pessoas que residam com uma ou mais pessoas.
 
  - MVP Canvas - criado na ferramenta Miro
  - Backlog do produto e backlog da Sprint - criado na ferramenta Jira
